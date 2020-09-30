@@ -13,3 +13,7 @@ h1 {
 footer {
     font-family: 'Josefin Sans', sans-serif;
 }
+
+table {
+    border-width: 0.5cm;
+}
