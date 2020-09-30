@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@600&display=swap');
+
+body {
+    background-color: darksalmon;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+h1 {
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 200%;
+}
+
+footer {
+    font-family: 'Josefin Sans', sans-serif;
+}
